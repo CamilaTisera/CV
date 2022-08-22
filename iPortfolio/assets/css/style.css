@@ -78,8 +78,8 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
   overflow-y: auto;
+  background-color: #333;
 }
 
 #header .profile img {
@@ -108,7 +108,7 @@ h6 {
 #header .profile .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #212431;
+  background: #111;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1081,7 +1081,6 @@ section {
   bottom: 0;
   width: 300px;
   z-index: 9999;
-  background: #040b14;
 }
 
 #footer .copyright {
